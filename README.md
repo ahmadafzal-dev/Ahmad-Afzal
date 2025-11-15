@@ -3,7 +3,7 @@
 💻 **Aspiring Python & AI Automation Developer**  
 🤖 Professionally learning Python, AI automation, and workflow automation tools.
 
-I am an 18-year-old CS student focused on building a strong foundation in Python programming and AI-powered automation.  
+I am an 19-year-old CS student focused on building a strong foundation in Python programming and AI-powered automation.  
 This repository documents my professional learning journey, tool setup, and progress as I advance toward building real-world automation solutions.
 
 ---
